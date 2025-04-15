@@ -29,6 +29,6 @@ The main goal of this project is to explore the sales dataset, uncover trends, a
 
 ## 📬 Contact
 **Mohammad Khaja Pasha**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) 
+[LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/) 
 
 ---
